@@ -24,3 +24,8 @@ img {
   border-radius: 50px solid rgb(5, 238, 5) ;
 
 }
+
+.center {
+
+  text-align: center;
+}
