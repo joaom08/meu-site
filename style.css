@@ -21,6 +21,6 @@ img {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border-radius: 50px solid green ;
+  border-radius: 50px solid rgb(5, 238, 5) ;
 
 }
