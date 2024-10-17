@@ -45,8 +45,16 @@ footer {
 }
 footer a {
     margin: 20px;
+    text-align: center;
 }
 
 footer p {
      margin-top: 20px;
+}
+
+.COTAINER {
+   padding: 0px 50px;
+}
+NAV A:hover {
+    color: rgba(247, 108, 108, 0.884);
 }
