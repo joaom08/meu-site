@@ -38,3 +38,8 @@ footer img {
    width: 20px;
    height: 20px;
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+}
